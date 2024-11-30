@@ -17,7 +17,8 @@ ________________________________________
 Data Distribution of salary via Revenue
 •	showing the distribution of Salary Estimate feature to Revenue
  
-________________________________________
+_____![image](https://github.com/user-attachments/assets/c1987acb-186a-4a3b-be17-d6ebe4f0dac4)
+___________________________________
 Preprocessing Steps
 1.	Data Cleaning:
 o	Removed invalid entries, such as -1 values.
@@ -34,7 +35,8 @@ o	Features such as Revenue and Location were found to have the strongest correla
 ________________________________________
 Feature Correlation
 •	to visualize the correlation between features and highlight how Revenue and Location are strongly related to Salary Estimate.
- 
+ ![image](https://github.com/user-attachments/assets/cbc991bc-c12a-4d0c-9448-d9796f0f21c6)
+
 ________________________________________
 Models Used
 The following machine learning regression models were implemented:
@@ -57,6 +59,6 @@ ________________________________________
 Predicted vs. Actual Salary
 •	a scatter plot below is comparing predicted vs. actual salaries, with a reference line to show how well the models performed.
  
-License
-This project is licensed under the dataroadmap (IBM) License. See the LICENSE file for more details.
+![image](https://github.com/user-attachments/assets/0f1a8bcc-bd2e-4dc0-adb5-84bf7cf58574)
+
 
