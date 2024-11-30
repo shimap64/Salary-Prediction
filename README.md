@@ -1,5 +1,5 @@
-Salary Prediction Using Machine Learning (Regression)
-Description
+Salary Prediction Using Machine Learning (Regression):
+
 This project aims to predict Salary Estimates based on other features such as Job Title, Rating, Location, Industry, and more. The dataset contains 4,282 records with various attributes related to companies, job positions, and organizational details. The analysis involves cleaning, preprocessing, feature selection, and applying regression models such as Random Forest, MLP, KNN, and Linear Regression to build predictive models.
 Dataset
 The dataset includes the following features:
